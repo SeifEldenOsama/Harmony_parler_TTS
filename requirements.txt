@@ -1,0 +1,17 @@
+torch==2.4.1
+torchaudio==2.4.1
+transformers==4.46.1
+accelerate
+datasets[audio]
+peft
+bitsandbytes
+huggingface_hub
+soundfile
+scipy
+librosa
+evaluate
+jiwer
+pyyaml
+python-dotenv
+modal
+parler-tts @ git+https://github.com/huggingface/parler-tts.git
